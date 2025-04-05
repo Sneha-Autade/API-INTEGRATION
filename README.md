@@ -41,3 +41,9 @@ For instance, in your Weather App, you use the OpenWeatherMap API to get real-ti
 - **Postman**: Tests API endpoints before putting them into your app.  
 - **CORS**: Lets websites share resources across different domains.
 - **OPENWEATHER API**:Helps to provide the weather data.
+
+
+**Output**
+
+
+
