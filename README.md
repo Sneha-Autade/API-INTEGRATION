@@ -45,5 +45,7 @@ For instance, in your Weather App, you use the OpenWeatherMap API to get real-ti
 
 **Output**
 
+![Image](https://github.com/user-attachments/assets/ad03129c-09a2-468f-b2ad-5e7812751027)
+
 
 
